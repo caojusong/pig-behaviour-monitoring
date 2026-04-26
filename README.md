@@ -40,7 +40,11 @@ The dataset contains original surveillance videos and corresponding annotations,
 ---
 
 ## Dataset Download
+This dataset is developed for individual pig behavior monitoring, serving as a critical resource for an optimized multi-object tracking framework tailored for real-time applications in precision livestock farming.
 
+The collection comprises raw surveillance video footage recorded in a commercial group-housed environment, accompanied by meticulous frame-level annotations. These annotations support both continuous individual identity tracking (unique target IDs) and multi-behavior recognition across five primary categories: standing, side-lying, prone lying, climbing, and feeding. By providing high-quality spatio-temporal ground truth, this dataset aims to facilitate the development of robust models capable of handling complex farm scenarios—such as severe occlusion and frequent identity switching—thereby advancing automated animal welfare assessment and precision breeding technologies.
+
+Due to GitHub's storage capacity limitations, the comprehensive dataset for this project—including the raw surveillance video footage and the corresponding tracking and detection annotations—is hosted on a cloud drive.
 Link: https://pan.quark.cn/s/b253138556fd  Extraction code: Please send an email to the author
 
 > Please contact the authors to obtain the extraction code.
